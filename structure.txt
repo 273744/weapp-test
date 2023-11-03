@@ -1,0 +1,20 @@
+myapp/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   ├── example/
+│   │   │   │   │   ├── controller/
+│   │   │   │   │   │   ├── ApiController.java
+│   │   │   │   │   ├── service/
+│   │   │   │   │   │   ├── DataService.java
+│   │   │   │   │   │   ├── AppService.java
+│   │   │   │   │   ├── WebAppApplication.java
+│   │   │   │   ├── resources/
+│   │   │   │   │   ├── static/
+│   │   │   │   │   │   ├── style.css
+│   │   │   │   │   ├── templates/
+│   │   │   │   │   │   ├── index.html
+│
+├── pom.xml
